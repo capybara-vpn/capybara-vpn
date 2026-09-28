@@ -51,5 +51,5 @@
 ### Наши ресурсы
 
 - 🌐 Сайт и тарифы: [capybara-vpn.github.io](https://capybara-vpn.github.io/)
-- 💬 Поддержка: через Telegram-бота на сайте
+- 💬 Поддержка: через Telegram-бота или на сайте
 - 📖 База знаний: [Wiki](https://github.com/capybara-vpn/capybara-vpn.github.io/wiki)
