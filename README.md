@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capybara-vpn.github.io/logo.png" alt="Capybara VPN — логотип" width="160" />
+<img src="https://capybaravpn.top/logo-320.png" alt="Capybara VPN — логотип" width="160" />
 
 # Capybara VPN — быстрый интернет без лишней сложности
 
@@ -9,11 +9,11 @@
 Подключение за пару минут через Telegram или прямо в браузере. Первый день — бесплатно, без карты.
 
 <p>
-  <a href="https://capybara-vpn.github.io/">
+  <a href="https://capybaravpn.top/">
     <img src="https://img.shields.io/badge/Открыть_Capybara_VPN-60A1A3?style=for-the-badge&logo=telegram&logoColor=white" alt="Открыть Capybara VPN" />
   </a>
   &nbsp;
-  <a href="https://capybara-vpn.github.io/#pricing">
+  <a href="https://capybaravpn.top/#pricing">
     <img src="https://img.shields.io/badge/Тарифы_от_249_₽-12151C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Тарифы Capybara VPN" />
   </a>
 </p>
@@ -40,16 +40,16 @@
 
 ## Как начать
 
-1. Откройте **[capybara-vpn.github.io](https://capybara-vpn.github.io/)**
+1. Откройте **[capybaravpn.top](https://capybaravpn.top/)**
 2. Нажмите «Открыть в Telegram» или «Открыть в браузере»
 3. Выберите тариф и подключитесь по короткой инструкции
 
-Начать с бесплатного дня: [capybara-vpn.github.io](https://capybara-vpn.github.io/)
+Начать с бесплатного дня: [capybaravpn.top](https://capybaravpn.top/)
 
 ---
 
 ### Наши ресурсы
 
-- 🌐 Сайт и тарифы: [capybara-vpn.github.io](https://capybara-vpn.github.io/)
+- 🌐 Сайт и тарифы: [capybaravpn.top](https://capybaravpn.top/)
 - 💬 Поддержка: через Telegram-бота или на сайте
 - 📖 База знаний: [Wiki](https://github.com/capybara-vpn/capybara-vpn.github.io/wiki)
